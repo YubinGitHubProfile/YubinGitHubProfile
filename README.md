@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi!
+I'm Yubin, a PhD candidate in linguistics and an AI practitioner passionate about NLP and deep learning.
+----------------------------------------
 
-<!--
-**YubinGitHubProfile/YubinGitHubProfile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔬 PhD candidate in **Linguistics**, focusing on psycholinguistics & neurolinguistics.
+- 🤖 Enthusiastic **AI practitioner** and **Deep Learning modeler**.
+- 💬 Ask me about **language and mind**, **syntax**, **transformers**, **LLMs**, **bilingualism**, **phonology**, **EEG**, **behavioural experiments in language studies**, etc.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## Skills
+- 🛠️ Languages: Python, R
+- 🧠 AI Tools: PyTorch, TensorFlow, Hugging Face, spaCy, NLTK, etc.
+- 📚 Research: Psycholinguistics (sentence/grammatical processing, moving window paradigm, maze task, EEG, corpus-based study), Syntax (generative), NLP (context-free grammar, dependency parsing, LLM application, transformer fine-tuning, etc.) 
