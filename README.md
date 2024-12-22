@@ -10,3 +10,7 @@ I'm Yubin, a PhD candidate in linguistics and an AI practitioner passionate abou
 - 🛠️ Languages: Python, R
 - 🧠 AI Tools: PyTorch, TensorFlow, Hugging Face, spaCy, NLTK, etc.
 - 📚 Research: Psycholinguistics (sentence/grammatical processing, moving window paradigm, maze task, EEG, corpus-based study), Syntax (generative), NLP (context-free grammar, dependency parsing, LLM application, transformer fine-tuning, etc.) 
+
+## Contact
+- yubinxing1006@gmail.com
+- wechat: 395227032
